@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62023414121",
+    "firebase_url": "https://bible-xman.firebaseio.com",
+    "project_id": "bible-xman",
+    "storage_bucket": "bible-xman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62023414121:android:c9bf6230f1dfee99c097f6",
+        "android_client_info": {
+          "package_name": "com.example.xman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62023414121-joj7235jhbpg6qmfs1pqafvun4f4l6pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xman",
+            "certificate_hash": "0c40de7d657c6aca94bdbeb601ec970989c4d3ac"
+          }
+        },
+        {
+          "client_id": "62023414121-hiofio248fq3po32o823ou3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AhjbrSyA-yr326KiL00WYjYQp2k0rt2zSabuDYug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62023414121-wrfgwqfw42242423r23321r23r23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
